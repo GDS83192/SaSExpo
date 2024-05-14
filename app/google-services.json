@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384271049253",
+    "project_id": "sasapp-b09e6",
+    "storage_bucket": "sasapp-b09e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384271049253:android:ed038e7c592e63109f55cc",
+        "android_client_info": {
+          "package_name": "com.newarksas.sasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPv7fW4ee0NTt2lKJ4H1r60cYbhRF0peA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
